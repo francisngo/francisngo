@@ -10,7 +10,7 @@ Throughout my career, I find that I value cross-functionally, collaborating with
 I am passionate about developing a positive workplace environment and fostering collaboration that celebrates learning, growth for all. 
 
 To get a better idea of me, here are my core values:
---------------------------------------------------------------
+
 Kindness | Connection | Adaptability | Courage | Integrity | Creativity
 
 --------------------------------------------------------------
