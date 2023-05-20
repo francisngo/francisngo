@@ -18,4 +18,4 @@ Kindness | Connection | Adaptability | Courage | Integrity | Creativity
 * 🧠 I specialize in React + TypeScript + GraphQL + Node + Redux
 * 🧐 I am currently learning AI Development + Machine Learning with Python
 * 📧 You can contact me at [francis.t.ngo@gmail.com](mailto:francis.t.ngo@gmail.com)
-* ⚡ In my freetime, I enjoy climbing, hiking, photography, making videos for my [YouTube](https://youtube.com/@francisngo) channel, working out, reading, exploring new food and coffee shops. 
+* ⚡ In my freetime, I enjoy climbing, hiking, photography, making camp & cook videos, maintaining health, reading, exploring new food and coffee shops. 
