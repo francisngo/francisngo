@@ -7,7 +7,7 @@ I'm a software engineer with five years of professional experience specializing 
 
 Throughout my career, I find that I value cross-functionally, collaborating with designers, product managers, and stakeholders to meet project objectives and delivery outstanding results. I like wearing different hats; tackling on new responsibilities, adapting to adversity, and driving positive change. 
 
-I am passionate about developing a positive workplace environment and fostering collaboration that celebrates learning, growth for all. 
+I am passionate about cultivating a positive workplace environment and fostering collaboration that celebrates learning and growth for all. 
 
 To get a better idea of me, here are my core values:
 
