@@ -16,7 +16,7 @@ Kindness | Connection | Adaptability | Courage | Integrity | Creativity
 --------------------------------------------------------------
 * 🌲 I live in Seattle, WA
 * 🧠 I specialize in React + TypeScript + GraphQL + Node + Redux
-* 🧐 I am currently learning AI Development + Machine Learning with Python
+* 🧐 I am currently learning about AI Development + Machine Learning with Python
 * 📧 You can contact me at [francis.t.ngo@gmail.com](mailto:francis.t.ngo@gmail.com)
 * ⚡ In my freetime, I enjoy climbing, hiking, photography, making camp & cook videos, maintaining health, reading, exploring new food and coffee shops. 
 * Fun Fact: I lived on the road for two years. I've been to 29 National Parks and know the best hot spring locations 😉
