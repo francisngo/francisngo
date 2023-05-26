@@ -1,5 +1,17 @@
 ![Banner](banner.png)
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/francisngo">
+        <img src="https://img.shields.io/badge/LinkedIn-5faed9?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://francisngo.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-5faed9?style=for-the-badge&logo=react&logoColor=white">
+    </a>
+    <a href="https://youtube.com/@francisngo">
+        <img src="https://img.shields.io/badge/YouTube-5faed9?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</p>
+
 Full stack software engineer + rock climber + photographer
 --------------------------------------------------------------
 
