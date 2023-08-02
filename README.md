@@ -12,7 +12,7 @@
     </a>
 </p>
 
-Software Engineer + rock climber + photographer
+Software Engineer + photographer + outdoor enthusiast
 --------------------------------------------------------------
 
 I'm a software engineer with five years of professional experience specializing in front-end technologies and developing software platforms. I bring a performance-centric approach to my work in that I like to focus around performance optimizations and possess an understanding of the underlying technologies and methodologies to achieve optimal performance; ensuring software solutions run efficiently, respond quickly and deliver seamless user experiences.
@@ -23,8 +23,8 @@ I am passionate about cultivating a positive workplace environment and fostering
 
 --------------------------------------------------------------
 * 🌲 I live in Seattle, WA
-* 🧠 I specialize in React + TypeScript + GraphQL + Node + Redux
-* 🧐 I am currently learning about AI Development + Machine Learning with Python
+* 🧠 I specialize in Next.js + React + TypeScript + GraphQL + Node.js + Redux
+* 🧐 I am currently learning about Generative AI and Large Language Models at [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
 * 📧 You can contact me at [francis.t.ngo@gmail.com](mailto:francis.t.ngo@gmail.com)
 * ⚡ In my freetime, I enjoy climbing, hiking, photography, making camp & cook videos, maintaining health, reading, exploring new food and coffee shops. 
 * Fun Fact: I lived on the road for two years. I've been to 29 National Parks and know the best hot spring locations 😉
